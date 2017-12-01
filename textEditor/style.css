@@ -1,0 +1,186 @@
+body {
+    background-image: url(KR_LVL_1/img/Lenovo-wallpaper-6_DcyKDyp.jpg);
+}
+
+#firstBlock {
+    border: 7px solid white;
+    border-radius: 15px;
+    width: 400px;
+    padding: 0px 20px;
+    height: 400px;
+    margin: auto;
+    background-color: hsla(188, 100%, 50%, 0.57);
+    overflow: auto;
+}
+
+#change {
+    border-radius: 15px;
+    margin-top: 10px;
+    display: inline-block;
+    height: 35px;
+    box-shadow: 0 3px #1f5eb9;
+    position: relative;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+#style {
+    border-radius: 15px;
+    margin-top: 10px;
+    display: inline-block;
+    height: 35px;
+    box-shadow: 0 3px #1f5eb9;
+    position: relative;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+#secondBlock {
+    border: 7px solid white;
+    border-radius: 15px;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    background-color: hsla(0, 100%, 50%, 0.4);
+    margin-top: 20px;
+    padding: 0px 20px;
+}
+
+textarea {
+    display: none;
+    width: 350px;
+    height: 200px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#save {
+    margin-top: 5px;
+    display: none;
+    margin-left: 25px;
+    border-radius: 10px;
+}
+
+#add {
+    margin-top: 5px;
+    display: none;
+    margin-left: 3px;
+    border-radius: 10px;
+}
+
+label {
+    display: inline-block;
+    color: white;
+    padding-top: 40px;
+    font-size: 15px;
+}
+
+#f1 {
+    display: none;
+    padding-left: 10px;
+}
+
+select {
+    display: inline-block;
+    background-color: chartreuse;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+#colorText {
+    border-radius: 10px;
+    display: block;
+    margin-top: 40px;
+}
+
+#colorBack {
+    border-radius: 10px;
+    display: block;
+    margin-top: 10px;
+}
+
+#thirBlock {
+    display: none;
+    border: 7px inset green;
+    border-radius: 15px;
+    width: 600px;
+    height: 800px;
+    margin: auto;
+    background-color: hsla(187, 100%, 68%, 0.63);
+    margin-top: 20px;
+    padding: 0px 20px;
+}
+
+#culc {
+    display: flex;
+    flex-direction: column;
+}
+
+#rad {
+    display: inline-block;
+}
+
+.row {
+    width: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.column {
+    width: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    padding-top: 40px;
+    color: white;
+}
+
+#size {
+    display: flex;
+    flex-direction: column;
+}
+
+#list2 {
+    background-color: #00bbff;
+    width: 80px;
+    height: 30px;
+}
+
+#list3 {
+    background-color: #00bbff;
+    width: 80px;
+    height: 30px;
+}
+
+#list4 {
+    background-color: #00bbff;
+    width: 80px;
+    height: 30px;
+}
+
+#posisition {
+    display: inline-block;
+}
+
+#createTable {
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#createListBtn {
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+}
